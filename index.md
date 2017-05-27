@@ -29,8 +29,7 @@ The browser now receives the HTTP response and parses it.
 Rendering of this response on the browser is also done in phases – first the bare bone HTML structure of a web page is rendered and then multiple GET requests are sent to fetch each new resource on the page like images, style sheets, JavaScript files, etc. which is a repetition of the above mentioned process. And now once all the required information is fetched, the browser displays the web page we see on the screen. Voila!
 
 The below image gives a gist of the web browser - web server interaction process 
-![Browser - Server interaction]
-(https://github.com/seethakn/Surf-the-Web/blob/master/Browser-Server.gif)
+!(https://github.com/seethakn/Surf-the-Web/blob/master/Browser-Server.gif)
 
 Though this all seems to be a lot time consuming, this isn’t as bad as it seems. It all happens with in split seconds and the web page gets rendered in no time☺
 
