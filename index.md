@@ -1,7 +1,7 @@
 Do you ever wonder what happens when you type a URL into a browser or how the browser loads the webpage you had requested? 
 If not, let’s take a trip down the browser lane now & find out what’s happening behind the scenes, shall we?
 
-Type URL in browser
+#Type URL in browser
 The web page address (e.g. www.google.com) that you type into a browser is called an URL (Uniform Resource Locator). Every URL or simply, a web address has a unique IP (Internet Protocol) address associated with it. An IP address is a series of numbers (e.g. http://74.125.224.72/ ) which uniquely identifies every system on the Internet. It’s like how phone numbers in a phone book would translate to a person’s name. So instead of remembering the numbers directly, we just type in the website’s URL and the browser fetches the respective IP address and thereby its contents for us. 
 
 DNS Lookup
