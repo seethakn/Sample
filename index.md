@@ -30,7 +30,7 @@ Rendering of this response on the browser is also done in phases – first the b
 
 The below image gives a gist of the web browser - web server interaction process 
 ![Browser - Server interaction]
-https://github.com/seethakn/Surf-the-Web/blob/master/Browser-Server.gif
+(https://github.com/seethakn/Surf-the-Web/blob/master/Browser-Server.gif)
 
 Though this all seems to be a lot time consuming, this isn’t as bad as it seems. It all happens with in split seconds and the web page gets rendered in no time☺
 
